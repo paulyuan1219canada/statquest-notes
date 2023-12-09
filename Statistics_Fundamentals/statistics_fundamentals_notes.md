@@ -25,17 +25,29 @@
 
 # 7. Calculating the Mean, Variance and Standard Deviation, Clearly Explained!!!
 
-# 8. What is a (mathematical) model?
+- Population Mean: $\mu = {\sum x_i} / N$
+- Population Variance: $\sigma^2 = \frac{\sum_{i=1}^{N} (x_i - \mu)^2}{N}$
 
+$$
+\begin{align*}
+\text{Estimated Population Mean:} \quad \bar{x} &= \frac{\sum_{i=1}^{n} x_i}{n} \\
+\text{Estimated Population Variance:} \quad s^2 &= \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n-1}
+\end{align*}
+$$
+
+
+# 8. What is a (mathematical) model?
+ 
 # 9. Sampling from a Distribution, Clearly Explained!!!
 
 # 10. Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!
+- Most important episode.
 
 # 11. Alternative Hypotheses: Main Ideas!!!
 # 12. p-values: What they are and how to interpret them
 # 13. How to calculate p-values
 # 14. p-hacking: What it is and how to avoid it!
-# 15. False Discovery Rates, FDR, clearly explained
+# 15. False Discovery Rates, FDR, clearly explained 
 # 16. Statistical Power, Clearly Explained!!!
 # 17. Power Analysis, Clearly Explained!!!
 # 18. Covariance, Clearly Explained!!!
